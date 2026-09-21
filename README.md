@@ -54,7 +54,7 @@ reconhece. **Só acontece uma vez por computador.**
 
 ## Usar pela primeira vez
 
-A aplicação funciona **por inteiro durante 30 dias**, sem ser preciso fazer nada.
+A aplicação funciona **por inteiro durante 7 dias**, sem ser preciso fazer nada.
 
 Passado esse período continua a abrir, a carregar os desenhos e a mostrar tudo —
 só **deixa de gravar os ficheiros** até ter licença. Nada do trabalho já feito se
